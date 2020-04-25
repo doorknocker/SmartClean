@@ -1,6 +1,10 @@
 # Smart Clean Project
 This project is a web application made via React and Nodejs. 
 
+## Demo
+To see the demo, click [here](https://smartclean-charts.herokuapp.com/)
+
+
 ## Project Requirements :
 1. [Nodejs](https://nodejs.org/en/)
 2. Create a file named ".env" in the root directory of the project
